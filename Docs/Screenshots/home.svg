@@ -1,0 +1,27 @@
+<svg width="390" height="844" viewBox="0 0 390 844" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="390" height="844" rx="42" fill="#F5F7F6"/>
+  <rect x="14" y="14" width="362" height="816" rx="34" fill="#FFFFFF"/>
+  <text x="32" y="70" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="600" fill="#111827">首页</text>
+  <text x="32" y="132" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="42" font-weight="800" fill="#111827">FitNote</text>
+  <text x="32" y="164" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="16" fill="#6B7280">记录每一次训练，看见自己的进步。</text>
+
+  <rect x="32" y="198" width="326" height="128" rx="12" fill="#F3F4F6"/>
+  <text x="52" y="235" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="16" font-weight="700" fill="#6B7280">今日训练概览</text>
+  <text x="52" y="275" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="25" font-weight="750" fill="#111827">1 条记录</text>
+  <text x="52" y="304" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="15" fill="#6B7280">合计 4 组训练</text>
+
+  <rect x="32" y="344" width="326" height="128" rx="12" fill="#F3F4F6"/>
+  <text x="52" y="381" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="16" font-weight="700" fill="#6B7280">本周训练次数</text>
+  <text x="52" y="421" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="25" font-weight="750" fill="#111827">1 次</text>
+  <text x="52" y="450" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="15" fill="#6B7280">坚持稳定训练，比一次练很多更重要</text>
+
+  <rect x="32" y="492" width="326" height="74" rx="12" fill="#DCFCE7"/>
+  <text x="52" y="535" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" font-weight="700" fill="#14532D">今天也完成一点点，长期看就是很大的变化。</text>
+
+  <rect x="14" y="744" width="362" height="86" fill="#FFFFFF"/>
+  <line x1="14" y1="744" x2="376" y2="744" stroke="#E5E7EB"/>
+  <text x="56" y="790" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" font-weight="700" fill="#16A34A">首页</text>
+  <text x="136" y="790" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" fill="#6B7280">记录</text>
+  <text x="216" y="790" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" fill="#6B7280">历史</text>
+  <text x="296" y="790" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" fill="#6B7280">我的</text>
+</svg>
