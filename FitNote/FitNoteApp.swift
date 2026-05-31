@@ -2,9 +2,10 @@
 //  FitNoteApp.swift
 //  FitNote
 //
-//  Created by 牛超超 on 2026/5/15.
+//  这个文件是 App 入口，并配置 SwiftData 本地数据库。
 //
 
+import SwiftData
 import SwiftUI
 
 @main
@@ -13,5 +14,6 @@ struct FitNoteApp: App {
         WindowGroup {
             ContentView()
         }
+        .modelContainer(for: WorkoutRecord.self)
     }
 }
